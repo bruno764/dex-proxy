@@ -8,10 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno764/dex-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bruno764/dex-proxy/issues"
+  },
+  "homepage": "https://github.com/bruno764/dex-proxy#readme",
+  "description": ""
 }
